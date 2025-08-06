@@ -1,0 +1,2 @@
+# THP7911_Artigo
+Artigo da cadeira de THP7911 - CONTROLE ADAPTATIVO PREDITIVO
